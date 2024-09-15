@@ -1,0 +1,17 @@
+{
+    "listOfRecords": [
+        {
+            "date": "a",
+            "money": 10,
+            "description": "a",
+            "status": "spent"
+        },
+        {
+            "date": "b",
+            "money": 15,
+            "description": "b",
+            "status": "earned"
+        }
+    ],
+    "MoneySummary": 5
+}

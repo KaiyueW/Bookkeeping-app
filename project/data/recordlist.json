@@ -1,0 +1,9 @@
+{
+    "listOfRecords": [{
+        "date": "1",
+        "money": 1,
+        "description": "1",
+        "status": "spent"
+    }],
+    "MoneySummary": -1
+}
